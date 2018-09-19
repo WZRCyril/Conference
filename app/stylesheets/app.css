@@ -1,0 +1,36 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+.section {
+	margin: 20px;
+}
+
+button {
+	padding: 5px 16px;
+	border-radius: 4px;
+}
+
+button#changeQuota {
+	background-color: yellow;
+}
+
+button#buyTicket {
+	background-color: #98fb98;
+}
+
+button#refundTicket {
+	background-color: pink;
+}
+
+button#createWallet {
+	background-color: #add8e6;
+}
+
+#seed {
+	color: green;
+}
+
+.section {
+	margin: 20px;
+}
